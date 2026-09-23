@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/anshika-gla/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshika-gla/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
