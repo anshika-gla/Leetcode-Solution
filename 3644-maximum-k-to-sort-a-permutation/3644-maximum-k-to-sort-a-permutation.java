@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int sortPermutation(int[] nums) {
         int k = -1;  // all bits set: nothing misplaced yet
